@@ -1,4 +1,4 @@
-package java_loopForEach.model;
+package model;
 
 import java.util.Date;
 

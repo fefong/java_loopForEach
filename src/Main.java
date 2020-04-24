@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-import java_loopForEach.model.Person;
+import model.Person;
 
 public class Main {
 
